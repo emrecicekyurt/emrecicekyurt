@@ -10,11 +10,11 @@
 
 <h1 align="center"></h1>
 
-- 🔭 I’m currently working on **E-Commerce Mobile App**
+- 🔭 I’m currently working on **Machine Learning in Python & R**
 
-- 🌱 I’m currently learning **Machine Learning and Mobile Development**
+- 🌱 I’m currently learning **Machine Learning and AI**
 
-- 💬 Ask me about **Java, Python, Flutter, Dart**
+- 💬 Ask me about **Java, Python, Flutter SDK, Dart**
 
 - 📫 How to reach me **cicekyurtemre@gmail.com**
 
