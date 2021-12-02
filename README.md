@@ -10,9 +10,9 @@
 
 <h1 align="center"></h1>
 
-- 🔭 I’m currently working on **Game Development**
+- 🔭 I’m currently working on **Machine Learning / AI**
 
-- 🌱 I’m currently learning **Game Development**
+- 🌱 I’m currently learning **Machine Learning / AI**
 
 - 💬 Ask me about **Java, Python, Flutter SDK, Dart**
 
