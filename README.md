@@ -1,18 +1,8 @@
 
 
-<h2 align="center">Welcome to the foxhole</h1>
-<h3 align= "center">Programming isn't about what you know; it's about what you can figure out.</h3>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emrecicekyurt" alt="emrecicekyurt" /></a> </p>
-
-
 <h1 align="center"></h1>
 
 - 🔭 I’m currently working on **Machine Learning / AI**
-
-- 🌱 I’m currently learning **Machine Learning / AI**
-
-- 💬 Ask me about **Java, Python, Flutter SDK, Dart**
 
 - 📫 How to reach me **cicekyurtemre@gmail.com**
 
