@@ -10,7 +10,7 @@ with a focus on applying deep learning to scientific problems.</p>
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://www.kaggle.com/emreiekyurt">
+  <a href="https://www.kaggle.com/emreiekyurt/code">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
   &nbsp;
